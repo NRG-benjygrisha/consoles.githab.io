@@ -1,0 +1,60 @@
+.generation{
+   position:absolute;
+   left:640px;
+   top:45%;
+}
+
+.term{
+   position:absolute;
+   left:420px;
+   top:49%;
+}
+.mom{
+   position:absolute;
+   left:468px;
+   top:52%;
+}
+.dad{
+   position:absolute;
+   left:335px;
+   top:55%;
+}
+.pool{
+   position:absolute;
+   left:390px;
+   top:58%;
+}
+.shift{
+   position:absolute;
+   left:334px;
+   top:61%;	
+}
+.anime{
+   position:absolute;
+   left:395px;
+   top:64%;	
+}
+.blade{
+   position:absolute;
+   left:440px;
+   top:67%;	
+}
+.yey{
+   position: absolute;
+   left:638px;
+   top: 48%;
+}
+.cite{
+    height:265px;
+	width:545px;
+    position:absolute;
+	left:390px;
+	top:20px;
+}
+.backbutton{
+   position: absolute;
+   left:20px;
+   top:73%;
+   height:50px;
+   width:50px;
+}

@@ -1,0 +1,65 @@
+.wow{
+   position: absolute;
+   left:640px;
+   top: 45%;
+}
+
+.term{
+   position: absolute;
+   left:470px;
+   top: 49%;
+}
+.mom{
+   position: absolute;
+   left:440px;
+   top: 52%;
+}
+.dad{
+   position: absolute;
+   left:440px;
+   top: 55%;
+}
+.pool{
+   position: absolute;
+   left:330px;
+   top: 58%;
+}
+.shift{
+   position: absolute;
+   left:330px;
+   top: 61%;	
+}
+.anime{
+   position: absolute;
+   left:328px;
+   top: 64%;		
+}
+.geg{
+   position: absolute;
+   left:380px;
+   top: 67%;		
+}
+.jojo{
+   position: absolute;
+   left:470px;
+   top: 70%;		
+}
+.yey{
+   position: absolute;
+   left:638px;
+   top: 48%;
+}
+.cite{
+    height:280px;
+	width:580px;
+    position:absolute;
+	left:400px;
+	top:15px;
+}
+.backbutton{
+	position: absolute;
+    left:10px;
+    top:91%;
+    height:50px;
+	width:50px;
+}

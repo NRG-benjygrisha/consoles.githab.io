@@ -1,0 +1,50 @@
+.wow{
+   position: absolute;
+   left:625px;
+   top: 45%;
+}
+
+.term{
+   position: absolute;
+   left:470px;
+   top: 49%;
+}
+.mom{
+   position: absolute;
+   left:400px;
+   top: 52%;
+}
+.dad{
+   position: absolute;
+   left:465px;
+   top: 55%;
+}
+.pool{
+   position: absolute;
+   left:460px;
+   top: 58%;
+}
+.shift{
+   position: absolute;
+   left:515px;
+   top: 61%;	
+}
+.yey{
+   position: absolute;
+   left:638px;
+   top: 48%;
+}
+.cite{
+    height:250px;
+	width:370px;
+    position:absolute;
+	left:550px;
+	top:15px;
+}
+.backbutton{
+	position: absolute;
+    left:10px;
+    top:91%;
+    height:50px;
+	width:50px;
+}
